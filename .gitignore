@@ -1,8 +1,8 @@
  
 .vs/
-Cefalo.Media.MyBlog.sln
-Cefalo.Media.MyBlog/bin
-Cefalo.Media.MyBlog/obj
+ProjectManager.sln
+ProjectManager/bin
+ProjectManager/obj
 Database/bin
 Database/obj
 Repositories/bin
