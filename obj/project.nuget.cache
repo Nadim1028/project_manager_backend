@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YRNOmvrXKsWNOYlUANQ4J8d0IOXWdTULWOm8k7lMNrm+Up5l8NRAP4ig6UxI7y89ludw4g/2cTVtcLycd5Yc+w==",
+  "dgSpecHash": "xyE9A0hUOXUQtFn5kRsRoSDb70bGstUKOE7nqjebS93zfzOHMmlBhfvIWDlemfddeHZgfyHWUulCf7uMzVJR1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nadim\\source\\repos\\ProjectManager\\ProjectManager.csproj",
+  "projectFilePath": "C:\\Users\\nadim\\source\\repos\\ProjectManager\\backend\\ProjectManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nadim\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\nadim\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

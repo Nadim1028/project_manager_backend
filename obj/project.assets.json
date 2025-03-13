@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nadim\\source\\repos\\ProjectManager\\ProjectManager.csproj",
+      "projectUniqueName": "C:\\Users\\nadim\\source\\repos\\ProjectManager\\backend\\ProjectManager.csproj",
       "projectName": "ProjectManager",
-      "projectPath": "C:\\Users\\nadim\\source\\repos\\ProjectManager\\ProjectManager.csproj",
+      "projectPath": "C:\\Users\\nadim\\source\\repos\\ProjectManager\\backend\\ProjectManager.csproj",
       "packagesPath": "C:\\Users\\nadim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nadim\\source\\repos\\ProjectManager\\obj\\",
+      "outputPath": "C:\\Users\\nadim\\source\\repos\\ProjectManager\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
